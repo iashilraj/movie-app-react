@@ -54,8 +54,10 @@ The app uses the OMDB API for movie data. Make sure to replace the `API_KEY` in 
 <code>const API_URL = "https://www.omdbapi.com/?apikey=YOUR_API_KEY";</code>
 
 <h2 align="center">Technologies Used</h2>
+
 - React
 - OMDB API
 - GitHub Pages (for deployment)
+
 <h2 align="center">License</h2>
 <p align="center">This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
